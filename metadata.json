@@ -1,0 +1,8 @@
+{
+  "name": "HỆ THỐNG QUẢN TRỊ SÁNG KIẾN CHUYỂN ĐỔI SỐ CAND",
+  "description": "Nền tảng quản trị quy trình đề xuất, thẩm định, phê duyệt và giám sát triển khai sáng kiến chuyển đổi số trong lực lượng Công an Nhân dân (CAND).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
